@@ -1,0 +1,69 @@
+.myimg{
+   width: 1259px;
+}
+.myimg2{
+    position: absolute;
+    top: 200px;
+    left: 600px;
+    width: 600px;
+
+}
+.my-p{
+    position: absolute;
+    top: 150px;
+    font-size: 30px;
+    color: white;
+}
+.my-a:hover{
+    color: red;
+}
+.my-a{
+    color: white;
+}
+.a{
+    position: absolute;
+    top: 200px;
+    left: 50px;
+}
+.b{
+    position: absolute;
+    top: 200px ;
+    left: 200px;
+}
+
+.navbar{
+    position: fixed;
+    z-index: 10000000000000000000000000;
+    width: 100%;
+}
+.img3{
+    width: 500px;
+    height: 500px;
+    position: absolute;
+    left: 700px;
+    top: 600px;
+}
+i{ 
+    margin-left: 50px;
+    width: 50px;
+    height: 50px;
+}
+.p1 , .p2 , .p3{
+    width: 500px;
+}
+.img5{
+    width: 500px;
+
+}
+.p5{
+    width: 500px;
+    position: absolute;
+    left: 600px;
+    top: 1100px;
+}
+@media(max-width: 700px){
+ .p4{
+    
+ }
+
+}
